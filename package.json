@@ -1,0 +1,19 @@
+{
+  "name": "portfolio2.0",
+  "version": "2.0.0",
+  "description": "Portfolio website for the web development work of Verity Stothard",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VStothard/Fusion2.git"
+  },
+  "author": "Verity Stothard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VStothard/Fusion2/issues"
+  },
+  "homepage": "https://github.com/VStothard/Fusion2#readme"
+}
